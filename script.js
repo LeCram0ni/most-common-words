@@ -126,10 +126,5 @@ function arrayFruits2() {
     console.log(sortedMap);
 }
 
-arrayFruits();
-
-
-
-
 /*mapFruits();*/
 arrayFruits2();

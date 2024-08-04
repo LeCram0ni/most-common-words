@@ -127,4 +127,5 @@ function arrayFruits2() {
 }
 
 /*mapFruits();*/
+
 arrayFruits2();
